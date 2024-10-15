@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>UNO簡介</title>
+</head>
+<body style="background-color:#FDFAE1">
+<h1 style=text-align:center;background-color:#683505;color:White>UNO桌遊介紹</h1>
+<h1 style="background-color:#FAB60F">簡介</h1>
+<h2>UNO是由Merle Robbins於1971年所發明的一種紙牌遊戲，由美泰爾公司生產並於1992年正式發售。<br>玩到手牌剩最後一張時必須喊出"Uno"，所以此桌遊因此得名。</h2>
+<br>
+<h1 style="background-color:#FAB60F" >以下為其中五個版本的UNO遊戲介紹</h1>
+<table border="1">
+<tr>
+	<th>名稱</th>
+    <th>圖片</th>
+    <th>介紹</th>
+<tr>
+	<th>UNO</th>
+<td><img src=https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/k33zfqfgrq9bwdfuxu7k.png></td>
+<td>原版UNO，除了有4種顏色的數字牌外還有不同功能的功能牌與可以<br>調色的黑牌，打出與上一位玩家相同顏色或相同數字的牌試著讓自己<br>獲得勝利，切記手上如果剩一張牌要喊"UNO"，否則需要抽兩張牌。</td>
+</tr>
+<tr>
+	<th>UNO<br>Show 'Ew<br>No Mercy</th>
+<td><img src=https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/ujrclqqxjqbg4gkrmwax_f05a3597-92c4-4cd0-8699-e71bef6b1a78.png></td>
+<td>一個非常"善良"的版本，很適合讓人認識彼此的UNO，繼原版UNO後<br>增加了更多的功能牌，讓整局遊戲不停換牌抽牌與加牌，而玩這版本<br>也有一個仁慈的規則，如果手牌等於或大於25張就出局，但要注意，<br>此版本的牌洗不乾淨。
+<p><b>ps.本人曾被加64張牌</b></p>
+</td>
+</tr>
+<tr>
+	<th>UNO<br>Filp!</th>
+<td><img src=https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/ho5twvg6s81ulahpajmv_3506721b-8fb0-44b2-a23c-292f76f05aa8.png></td>
+<td>增加了特別的玩法，每張牌分成了兩面，透過翻轉功能來讓遊戲變得<br>更多樣化，嘗試去繼對手背面的牌，利用對的時機來翻轉牌來製造更<br>多讓自己勝利的機會。</td>
+</tr>
+<tr>
+	<th>UNO<br>Flex!</th>
+<td><img src=https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/rmt8fwuegnhdtcssaypy.png></td>
+<td>部分數字及功能牌多出了第二個顏色和功能，也增加了能量的機制，<br>視時機去使用或補充能量，來改變牌堆顏色讓自己有更多方向可以出<br>牌或使用不同功能牌。</td>
+</tr>
+<tr>
+	<th>ONO99</th>
+<td><img src=https://images.mattel.net/image/upload/w_180,f_auto,c_scale/shop-us-prod/files/vupltdciu3ypslbzbkrd_c824135e-999f-4abb-bca7-b167eafc2160.jpg></td>
+<td>UNO的一個延伸版本，讓牌堆的總和達到99的玩家輸掉這場遊戲，<br>其中功能牌除了能讓總和減少或讓對手出更多牌外，也有特別的<br>ONO99牌，打出來總和就會增加99但如果手上有四張就可棄掉重新<br>抽牌。</td>
+</tr>
+</table>
+<h4 style=text-align:center;background-color:#683505;color:White>@NTTU Introduction to Computers2024</h4>
+</body>
+</html>
